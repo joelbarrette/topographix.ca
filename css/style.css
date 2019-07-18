@@ -285,7 +285,7 @@ ul, li {
 }
 #HeroBanner .hero-content {
 	display: table-cell;
-	background-color: rgba(10,40,60,0.7);
+	background-color: rgba(10,40,60,0.55);
 	text-align: center;
 	vertical-align: middle;
 	padding: 0 15px;
@@ -293,7 +293,7 @@ ul, li {
 #HeroBanner .hero-content h1 {
 	font-size: 48px;
 	color: #fff;
-	text-transform: uppercase;
+/*	text-transform: uppercase; */
 	margin: 0 0 20px;
 }
 #HeroBanner .hero-content p {
@@ -464,7 +464,7 @@ ul, li {
 	position: absolute;
 	top: 0;
 	right: 0;
-	background: url("../images/about-us.jpg") no-repeat center / cover;
+	background: url("../images/about-us-4.jpg") no-repeat center / cover;
 	width: 50%;
 	height: 100%;
 }
