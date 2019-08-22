@@ -39,6 +39,7 @@ ul, li {
 	display: none;
 }
 #MainContainer h1 {
+	font-family: arial;
 	font-size: 40px;
 	font-weight: bold;
 	line-height: 1.2;
