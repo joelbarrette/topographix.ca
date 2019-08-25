@@ -511,12 +511,14 @@ ul, li {
 	color: #000;
 	text-align: center;
 	margin: 0 0 30px;
+	vertical-align: top;
 }
 #ContactUs .contact-outer-wrapper {
 	width: 100%;
 	height: auto;
 	display: table;
 	margin: 0 auto;
+	vertical-align: top;
 }
 #ContactUs .address-block {
 	width: 40%;
@@ -525,6 +527,7 @@ ul, li {
 	color: #333;
 	position: relative;
 	padding: 40px;
+	vertical-align: top;
 }
 #ContactUs .address-block::after {
   position: absolute;
